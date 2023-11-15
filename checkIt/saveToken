@@ -1,0 +1,49 @@
+$ git config --global user.name "your_github_username"
+$ git config --global user.email "your_github_email"
+$ git config -l
+
+# ### configuration file for openfortivpn, see man openfortivpn(1) ###
+# Commoc config
+# host = vpn.example.org
+# port = 443
+# username = vpnuser
+# password = VPNpassw0rd
+
+
+################# 
+# config on my device
+host = access.um.ac.ir
+port = 10443
+username = amin.ahadi
+password = amah23-14
+set-dns = 0
+pppd-use-peerdns = 0
+#################################
+
+
+Expires on Wedn, never expire
+
+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
+
+shekan
+178.22.122.100 – 185.51.200.2
+
+
+# tar a file 
+tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
+# zip z file 
+zip -r <output_file> <folder_1> <folder_2> ... <folder_n>
+-c : create 
+-z : create in gzip file 
+-f : allow to specify file name 
+-v : do tar in verbose mode
+
+
+# khayyam Hamed user 
+user: 9715352018
+pass: 921253001
+
+
+# conda commands
+conda update -n base -c conda-forge conda
+
